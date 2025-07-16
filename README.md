@@ -1,2 +1,2 @@
 # coding_demo
-this is my git hub reposaratory
+this is my first git hub reposaratory
